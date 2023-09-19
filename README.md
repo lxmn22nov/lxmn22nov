@@ -1,4 +1,4 @@
-Hi, there 👋
+#ABOUT ME
 <!--
 **lxmn22nov/lxmn22nov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
