@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![1679127168740](https://github.com/lxmn22nov/lxmn22nov/assets/126524753/bb5f31dd-c2af-44a8-8173-68831d32088a)
+
 
 [![](https://visitcount.itsvg.in/api?id=lxmn22nov&icon=5&color=1)](https://visitcount.itsvg.in)
 # 💫 About Me:
-🔭 Computer Science Undergraduate.<br>🌱 I’m currently learning Swift/SwiftUI.<br>🤩 Enthusiastic about iOS Development.
+🔭 Computer Application Undergraduate.<br>🌱 I’m currently learning Swift/SwiftUI.<br>🤩 Passionate about crafting innovative and user-centric solutions, I specialize in iOS app development and Full Stack engineering.
 
 
 ## 🌐 Socials:
@@ -35,5 +37,5 @@ Here are some ideas to get you started:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lxmn22nov&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lxmn22nov)](https://github.com/lxmn22nov/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lxmn22nov&bg_color=000000&color=ffffff&line=2cf604&point=f20202&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
