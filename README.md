@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![](https://visitcount.itsvg.in/api?id=lxmn22nov&icon=5&color=1)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 Computer Science Undergraduate.<br>🌱 I’m currently learning Swift/SwiftUI.<br>🤩 Enthusiastic about iOS Development.
 
@@ -31,8 +32,4 @@ Here are some ideas to get you started:
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lxmn22nov&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=lxmn22nov&icon=5&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
