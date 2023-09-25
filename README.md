@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ![Hi 👋🏻 I’m Laxman](https://github.com/lxmn22nov/lxmn22nov/assets/126524753/537d29ec-96dc-4ad4-8a2e-f3d12b7e5e39)
 
+[![](https://visitcount.itsvg.in/api?id=lxmn22nov&icon=5&color=1)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 Computer Application Undergraduate.<br>🌱 I’m currently learning Swift/SwiftUI.<br>🤩 Passionate about crafting innovative and user-centric solutions, I specialize in iOS app development and Full Stack engineering.
 
@@ -35,7 +37,5 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=lxmn22nov&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lxmn22nov&bg_color=000000&color=ffffff&line=2cf604&point=f20202&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![](https://visitcount.itsvg.in/api?id=lxmn22nov&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
