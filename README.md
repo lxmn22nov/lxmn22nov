@@ -86,10 +86,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" "height=190px"/>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" "height=190px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true"/>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lxmn22nov&theme=blue-green&hide_border=false" "height=190px"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lxmn22nov&theme=blue-green&hide_border=false"/>
 </p> 
 
 <!-- <h3>🔥 Streak Stats</h3>
