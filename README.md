@@ -16,7 +16,7 @@
 <!-- Tech stacks, hands on experience 
 ## 💻 Tech Stack:
 -->
-## ➤ Programming & Markup Languages:
+## ・ Programming & Markup Languages:
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -32,7 +32,7 @@
       <img alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white">
   </p>
 
-  ## ➤ Frameworks & Libraries:
+  ## ・ Frameworks & Libraries:
   <p>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
@@ -47,7 +47,7 @@
       <a href="#"><img alt="Strapi" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat&logo=strapi&logoColor=white"></a>
   </p>
 
-  ## ➤ Databases & Cloud Hosting:
+  ## ・ Databases & Cloud Hosting:
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
@@ -58,7 +58,7 @@
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
 
-  ## ➤ Software & Tools:
+  ## ・ Software & Tools:
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white"></a>
@@ -81,14 +81,14 @@
 <!-- Github Statistics -->
 ## 📊 Github Stats:
 <p align="center">
-  ### 💻 Profile Stats
+  <h2>💻 Profile Stats</h2> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true"/>
 </p>
 <p align="center">
-  ### 🔥 Streak Stats
+  <h2>🔥 Streak Stats</h2>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lxmn22nov&theme=blue-green&hide_border=false" />
 </p>
 
