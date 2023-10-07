@@ -85,12 +85,12 @@
 <p align="center">
   <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
-height="192px" width="500px"/>
+width="500px"/>
   </a>
 </p>
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" width="500px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" width="495px"/>
   </a>
 </p>
 <p align="center">
