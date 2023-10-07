@@ -20,17 +20,17 @@
   
   <!--  ## ・ Frameworks & Libraries:
   <p>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-      <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black"></a>
-      <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white"></a>
-      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white"></a>
-      <a href="#"><img alt="Strapi" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat&logo=strapi&logoColor=white"></a>
+      <a href="#"><img alt="" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+      <a href="#"><img alt="" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+      <a href="#"><img alt="" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+      <a href="#"><img alt="" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black"></a>
+      <a href="#"><img alt="" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white"></a>
+      <a href="#"><img alt="" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+      <a href="#"><img alt="" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white"></a>
+      <a href="#"><img alt="" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat&logo=strapi&logoColor=white"></a>
   </p>
 
   ## ・ Databases & Cloud Hosting:
@@ -74,14 +74,29 @@
   <img align="left" alt="Javascript" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="left" alt="Nodejs" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="left" alt="PHP" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <br/>
-  <img align="left" alt="Prolog" width="30px" style="padding-right:10px;"  />
-  <img align="left" alt="Bash" width="30px" style="padding-right:10px;"  />
-  <img align="left" alt="Bash" width="30px" style="padding-right:10px;"  />
-  <img align="left" alt="Bash" width="30px" style="padding-right:10px;"  />
-  <img align="left" alt="Bash" width="30px" style="padding-right:10px;"  />
-  <img align="left" alt="Bash" width="30px" style="padding-right:10px;"  />
-  <br/>
+  <br>
+  <img align="left" alt="Bootstrap" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img align="left" alt="Express.js" width="45px" style="padding-right:10px;"  />
+  <img align="left" alt="GitHub Actions" width="45px" style="padding-right:10px;"  />
+  <img align="left" alt="Matplotlib" width="45px" style="padding-right:10px;"  />
+  <img align="left" alt="NPM" width="45px" style="padding-right:10px;"  />
+  <img align="left" alt="NumPy" width="45px" style="padding-right:10px;"  />
+  <img align="left" alt="Pandas" width="45px" style="padding-right:10px;"  />
+  <img align="left" alt="React" width="45px" style="padding-right:10px;"  />
+  <img align="left" alt="React Native" width="45px" style="padding-right:10px;"  />
+  <img align="left" alt="Scikit-learn" width="45px" style="padding-right:10px;"  />
+  <img align="left" alt="Strapi" width="45px" style="padding-right:10px;"  />
+  <br>
+  <img align="left" alt="" width="45px" style="padding-right:10px;"  />
+  <img align="left" alt="" width="45px" style="padding-right:10px;"  />
+  <img align="left" alt="" width="45px" style="padding-right:10px;"  />
+  <img align="left" alt="" width="45px" style="padding-right:10px;"  />
+  <img align="left" alt="" width="45px" style="padding-right:10px;"  />
+  <br>
+
+            <img  />
+          
+
   
 <!-- Github Statistics -->
 ## 📊 Github Stats:
