@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ![Hi 👋🏻 I’m Laxman](https://github.com/lxmn22nov/lxmn22nov/assets/126524753/537d29ec-96dc-4ad4-8a2e-f3d12b7e5e39)
----
+
 # 💫 ABOUT ME:
 🔭 Computer Application Undergraduate.<br>🌱 I’m currently learning Swift/SwiftUI.<br>🤩 Passionate about crafting innovative and user-centric solutions, I specialize in iOS app development and Full Stack engineering.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lxmn_s_koranga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laxman-singh-koranga-689230225) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lxmn22nov) 
 
