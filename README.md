@@ -31,5 +31,10 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lxmn22nov&theme=blue-green&hide_border=false" />
 </p>
 
+<!-- Halopin Board 
+[![An image of @lxmn22nov's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lxmn22nov)](https://holopin.io/@lxmn22nov)
+-->
+<img src="https://holopin.me/lxmn22nov)"/>
+
 <!-- Activity Tracker -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lxmn22nov&bg_color=000000&color=ffffff&line=2cf604&point=f20202&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
