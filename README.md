@@ -21,16 +21,12 @@
 
 <!-- Github Statistics -->
 ## 📊 Github Stats:
-<table align="center", border: 0px solid>
-<tr>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true"/>
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</td>
-</tr>
-</table>
-<br />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxmn22nov&theme=blue green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true"/>
+</p>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lxmn22nov&theme=blue-green&hide_border=false" />
 </p>
