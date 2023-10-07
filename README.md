@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ## 📊 GITHUB STATS:
 ![](https://github-readme-stats.vercel.app/api?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lxmn22nov&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lxmn22nov&bg_color=000000&color=ffffff&line=2cf604&point=f20202&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
