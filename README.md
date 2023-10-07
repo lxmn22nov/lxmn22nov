@@ -80,7 +80,7 @@
 
 <!-- Github Statistics -->
 ## 📊 Github Stats:
-<p align="center">
+<!--<p align="center">
   <h2>💻 Profile Stats</h2> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
@@ -90,8 +90,24 @@
 <p align="center">
   <h2>🔥 Streak Stats</h2>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lxmn22nov&theme=blue-green&hide_border=false" />
-</p>
+</p> -->
 
+<h3>🔥 Streak Stats</h3>
+  <p>
+    <a>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lxmn22nov&theme=blue-green&hide_border=false" />
+    </a>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height="192px"/>
+  </a>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="192px"/>
+  </a>
+  <br/>
+    
 <!-- Halopin Board -->
 [![An image of @lxmn22nov's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lxmn22nov)](https://holopin.io/@lxmn22nov)
 
