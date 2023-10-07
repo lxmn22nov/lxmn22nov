@@ -74,7 +74,7 @@
   <img align="left" alt="Javascript" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="left" alt="Nodejs" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="left" alt="PHP" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <br>
+  <br/>
   <img align="left" alt="Bootstrap" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="left" alt="Express.js" width="45px" style="padding-right:10px;"  />
   <img align="left" alt="GitHub Actions" width="45px" style="padding-right:10px;"  />
@@ -86,13 +86,13 @@
   <img align="left" alt="React Native" width="45px" style="padding-right:10px;"  />
   <img align="left" alt="Scikit-learn" width="45px" style="padding-right:10px;"  />
   <img align="left" alt="Strapi" width="45px" style="padding-right:10px;"  />
-  <br>
+  <br/>
   <img align="left" alt="" width="45px" style="padding-right:10px;"  />
   <img align="left" alt="" width="45px" style="padding-right:10px;"  />
   <img align="left" alt="" width="45px" style="padding-right:10px;"  />
   <img align="left" alt="" width="45px" style="padding-right:10px;"  />
   <img align="left" alt="" width="45px" style="padding-right:10px;"  />
-  <br>
+  <br/>
 
             <img  />
           
