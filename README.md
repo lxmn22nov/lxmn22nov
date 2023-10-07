@@ -17,10 +17,7 @@
 
 <!-- Tech stacks, hands on experience -->
 ## 💻 Programming Languages & Tools:
-  <!-- <p>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+  
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white">
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"></a>
@@ -78,9 +75,28 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p> -->
   <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-          
+  <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="left" alt="Bash" width="30px" style="padding-right:10px;"  />
+  <img align="left" alt="Bash" width="30px" style="padding-right:10px;"  />
+  <img align="left" alt="Bash" width="30px" style="padding-right:10px;"  />
+  <img align="left" alt="Bash" width="30px" style="padding-right:10px;"  />
+  <img align="left" alt="Bash" width="30px" style="padding-right:10px;"  />
+  <img align="left" alt="Bash" width="30px" style="padding-right:10px;"  />
+  <img align="left" alt="Bash" width="30px" style="padding-right:10px;"  />
+  <img align="left" alt="Bash" width="30px" style="padding-right:10px;"  />
+  <img align="left" alt="Bash" width="30px" style="padding-right:10px;"  />
+  <img align="left" alt="Bash" width="30px" style="padding-right:10px;"  />
+  <img align="left" alt="Bash" width="30px" style="padding-right:10px;"  />
+  <img align="left" alt="Bash" width="30px" style="padding-right:10px;"  />
   
           
+          
+            
+          
+          
+  
   <br/>
 
 <!-- Github Statistics -->
