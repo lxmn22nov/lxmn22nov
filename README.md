@@ -21,7 +21,7 @@
 
 <!-- Github Statistics -->
 ## 📊 Github Stats:
-<table align="center" border: 0px solid>
+<table align="center", border: 0px solid>
 <tr>
   <td><img src="https://github-readme-stats.vercel.app/api?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true"/>
 </td>
