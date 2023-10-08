@@ -48,7 +48,7 @@
   <img align="left" alt="Repl.it" width="45px" style="padding-right:10px;"  />
   <img align="left" alt="Vercel" width="45px" style="padding-right:10px;"  />
   <br/>
-  <img align="left" alt="Adobe" width="45px" style="padding-right:10px;"  />
+  <img align="left" alt="Adobe" width="45px" style="padding-right:10px;" src="/Users/lxmn/Downloads/adobe.svg" />
   <img align="left" alt="Adobe Lightroom" width="45px" style="padding-right:10px;"  />
   <img align="left" alt="Anaconda" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
   <img align="left" alt="Brave" width="45px" style="padding-right:10px;"  />
