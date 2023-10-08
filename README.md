@@ -64,7 +64,6 @@
   <img align="left" alt="Postman" width="45px" style="padding-right:10px;"  />
   <img align="left" alt="Stack Overflow" width="45px" style="padding-right:10px;"  />
   <img align="left" alt="Visual Studio Code" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <br/>
   
 <!-- Github Statistics -->
 ## 📊 Github Stats:
