@@ -30,41 +30,44 @@
   
   <img align="left" alt="Bootstrap" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="left" alt="Express.js" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  <img align="left" alt="GitHub Actions" width="45px" style="padding-right:10px;"  />
-  <img align="left" alt="Matplotlib" width="45px" style="padding-right:10px;"  />
+  <!--<img align="left" alt="GitHub Actions" width="45px" style="padding-right:10px;"  /> -->
+  <!--<img align="left" alt="Matplotlib" width="45px" style="padding-right:10px;"  />-->
   <img align="left" alt="NPM" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="left" alt="NumPy" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
   <img align="left" alt="Pandas" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
   <img align="left" alt="React" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="left" alt="React Native" width="45px" style="padding-right:10px;"  />
-  <img align="left" alt="Scikit-learn" width="45px" style="padding-right:10px;"  />
-  <img align="left" alt="Strapi" width="45px" style="padding-right:10px;"  />
+  <!--<img align="left" alt="React Native" width="45px" style="padding-right:10px;"  />-->
+  <!--<img align="left" alt="Scikit-learn" width="45px" style="padding-right:10px;"  />-->
+  <!--<img align="left" alt="Strapi" width="45px" style="padding-right:10px;"  />-->
   
-  <img align="left" alt="GitHub Pages" width="45px" style="padding-right:10px;"  />
+  <!--<img align="left" alt="GitHub Pages" width="45px" style="padding-right:10px;"  />-->
   <img align="left" alt="Heroku" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
   <img align="left" alt="MongoDB" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="left" alt="MySQL" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="left" alt="Oracle" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img align="left" alt="Repl.it" width="45px" style="padding-right:10px;"  />
-  <img align="left" alt="Vercel" width="45px" style="padding-right:10px;"  />
+  <!--<img align="left" alt="Repl.it" width="45px" style="padding-right:10px;"  />-->
+  <!--<img align="left" alt="Vercel" width="45px" style="padding-right:10px;"  />-->
 
-  <img align="left" alt="Adobe" width="45px" style="padding-right:10px;" src="<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Adobe</title><path d="M13.966 22.624l-1.69-4.281H8.122l3.892-9.144 5.662 13.425zM8.884 1.376H0v21.248zm15.116 0h-8.884L24 22.624Z"/></svg>" />
-  <img align="left" alt="Adobe Lightroom" width="45px" style="padding-right:10px;" src="" />
+  
+  <!--<img align="left" alt="Adobe Lightroom" width="45px" style="padding-right:10px;" src="" />-->
   <img align="left" alt="Anaconda" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
-  <img align="left" alt="Brave" width="45px" style="padding-right:10px;"  />
+  <!--<img align="left" alt="Brave" width="45px" style="padding-right:10px;"  />-->
   <img align="left" alt="Canva" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  <img align="left" alt="Discord" width="45px" style="padding-right:10px;"  />
+  <!--<img align="left" alt="Discord" width="45px" style="padding-right:10px;"  />-->
   <img align="left" alt="Docker" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   <img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   <img align="left" alt="Github" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  <img align="left" alt="GitHub Desktop" width="45px" style="padding-right:10px;"  />
-  <img align="left" alt="Google Sheets" width="45px" style="padding-right:10px;"  />
+  <!--<img align="left" alt="GitHub Desktop" width="45px" style="padding-right:10px;"  />-->
+  <!--<img align="left" alt="Google Sheets" width="45px" style="padding-right:10px;"  />-->
   <img align="left" alt="Jupyter" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="left" alt="Notion" width="45px" style="padding-right:10px;"  />
-  <img align="left" alt="Postman" width="45px" style="padding-right:10px;"  />
-  <img align="left" alt="Stack Overflow" width="45px" style="padding-right:10px;"  />
+  <!--<img align="left" alt="Notion" width="45px" style="padding-right:10px;"  />-->
+  <!--<img align="left" alt="Postman" width="45px" style="padding-right:10px;"  />-->
+  <!--<img align="left" alt="Stack Overflow" width="45px" style="padding-right:10px;"  />-->
   <img align="left" alt="Visual Studio Code" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="left" alt="XCode" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
   
+
+          
 <!-- Github Statistics -->
 ## 📊 Github Stats:
 <p align="center">
