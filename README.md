@@ -17,56 +17,6 @@
 
 <!-- Tech stacks, hands on experience -->
 ## 💻 Programming Languages & Tools:
-  <!--<img align="left" alt="Bash" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img align="left" alt="C" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="left" alt="Java" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="left" alt="Swift" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-  <img align="left" alt="HTML5" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="left" alt="CSS3" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="left" alt="Javascript" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="left" alt="Nodejs" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="left" alt="PHP" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  
-  <img align="left" alt="Bootstrap" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img align="left" alt="Express.js" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  <!--<img align="left" alt="GitHub Actions" width="45px" style="padding-right:10px;"  /> -->
-  <!--<img align="left" alt="Matplotlib" width="45px" style="padding-right:10px;"  />
-  <img align="left" alt="NPM" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img align="left" alt="NumPy" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-  <img align="left" alt="Pandas" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-  <img align="left" alt="React" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <!--<img align="left" alt="React Native" width="45px" style="padding-right:10px;"  />-->
-  <!--<img align="left" alt="Scikit-learn" width="45px" style="padding-right:10px;"  />-->
-  <!--<img align="left" alt="Strapi" width="45px" style="padding-right:10px;"  />-->
-  
-  <!--<img align="left" alt="GitHub Pages" width="45px" style="padding-right:10px;"  />
-  <img align="left" alt="Heroku" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
-  <img align="left" alt="MongoDB" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="left" alt="MySQL" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="left" alt="Oracle" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <!--<img align="left" alt="Repl.it" width="45px" style="padding-right:10px;"  />-->
-  <!--<img align="left" alt="Vercel" width="45px" style="padding-right:10px;"  />
-
-  <!--<img align="left" alt="Adobe Lightroom" width="45px" style="padding-right:10px;" src="" />
-  <img align="left" alt="Anaconda" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
-  <!--<img align="left" alt="Brave" width="45px" style="padding-right:10px;"  />
-  <img align="left" alt="Canva" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  <!--<img align="left" alt="Discord" width="45px" style="padding-right:10px;"  />
-  <img align="left" alt="Docker" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-  <img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  <img align="left" alt="Github" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  <!--<img align="left" alt="GitHub Desktop" width="45px" style="padding-right:10px;"  />
-  <!--<img align="left" alt="Google Sheets" width="45px" style="padding-right:10px;"  />
-  <img align="left" alt="Jupyter" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <!--<img align="left" alt="Notion" width="45px" style="padding-right:10px;"  />-->
-  <!--<img align="left" alt="Postman" width="45px" style="padding-right:10px;"  />-->
-  <!--<img align="left" alt="Stack Overflow" width="45px" style="padding-right:10px;"  />
-  <img align="left" alt="Visual Studio Code" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="left" alt="XCode" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
-  <br/> 
-  -->
- 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) 
