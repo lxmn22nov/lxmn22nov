@@ -48,7 +48,6 @@
   <!--<img align="left" alt="Repl.it" width="45px" style="padding-right:10px;"  />-->
   <!--<img align="left" alt="Vercel" width="45px" style="padding-right:10px;"  />-->
 
-  
   <!--<img align="left" alt="Adobe Lightroom" width="45px" style="padding-right:10px;" src="" />-->
   <img align="left" alt="Anaconda" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
   <!--<img align="left" alt="Brave" width="45px" style="padding-right:10px;"  />-->
@@ -65,9 +64,8 @@
   <!--<img align="left" alt="Stack Overflow" width="45px" style="padding-right:10px;"  />-->
   <img align="left" alt="Visual Studio Code" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="left" alt="XCode" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+  <br/>
   
-
-          
 <!-- Github Statistics -->
 ## 📊 Github Stats:
 <p align="center">
