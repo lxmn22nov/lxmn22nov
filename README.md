@@ -72,22 +72,22 @@
 
 <!-- Github Statistics -->
 ### 📊 GITHUB STATS:
-<p align="left">
-  <a>
+<table align="center">
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" width="420px"/>
+  </td>
+  <td>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
-width="420px"/>
-  </a>
-</p>
-<p align="right">
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" width="420px"/>
-  </a>
-</p>
+width="390px"/>
+  </td>
+</tr>
+</table>
+<br />
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lxmn22nov&theme=blue-green&hide_border=false"/>
-</p> 
-  <br/>
-    
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lxmn22nov&theme=blue-green&hide_border=false"/>
+</p>
+ 
 <!-- Halopin Board -->
 [![An image of @lxmn22nov's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lxmn22nov)](https://holopin.io/@lxmn22nov)
 
