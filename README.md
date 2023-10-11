@@ -73,7 +73,7 @@
   </td>
   <td>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxmn22nov&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
-width="390px"/>
+width="330px"/>
   </td>
 </tr>
 </table>
