@@ -8,13 +8,13 @@
 <!-- About me section -->
 ### 💫 ABOUT ME:
 🔭 Computer Application Undergraduate.<br>🌱 I’m currently learning Swift/SwiftUI.<br>🤩 Passionate about crafting innovative and user-centric solutions, I specialize in iOS app development and Full Stack engineering.
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <!-- Social Media Handles -->
-### 🌐 SOCIALS:
+### 🌐 SOCIALS: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lxmn_s_koranga) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laxman-singh-koranga-689230225) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lxmn22nov) 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <!-- Tech stacks, hands on experience -->
 ### 💻 PROGRAMMING LANGUAGES & TOOLS: 
 ###### VERSION CONTROL
@@ -63,7 +63,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <!-- Github Statistics -->
 ### 📊 GITHUB STATS:
 <table align="center">
@@ -81,9 +81,9 @@ width="330px"/>
 <p align="center">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lxmn22nov&theme=blue-green&hide_border=false"/>
 </p>
- 
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <!-- Halopin Board -->
 [![An image of @lxmn22nov's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lxmn22nov)](https://holopin.io/@lxmn22nov)
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <!-- Activity Tracker -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lxmn22nov&bg_color=000000&color=ffffff&line=2cf604&point=f20202&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
