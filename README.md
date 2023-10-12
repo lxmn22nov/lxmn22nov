@@ -1,10 +1,10 @@
 <!-- **lxmn22nov/lxmn22nov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- Banner -->
 ![Hi 👋🏻 I’m Laxman](https://github.com/lxmn22nov/lxmn22nov/assets/126524753/537d29ec-96dc-4ad4-8a2e-f3d12b7e5e39)
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <!-- Visitor Count -->
 [![](https://visitcount.itsvg.in/api?id=lxmn22nov&icon=5&color=1)](https://visitcount.itsvg.in)
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <!-- About me section -->
 ### 💫 ABOUT ME:
 🔭 Computer Application Undergraduate.<br>🌱 I’m currently learning Swift/SwiftUI.<br>🤩 Passionate about crafting innovative and user-centric solutions, I specialize in iOS app development and Full Stack engineering.
@@ -81,9 +81,9 @@ width="330px"/>
 <p align="center">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lxmn22nov&theme=blue-green&hide_border=false"/>
 </p>
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <!-- Halopin Board -->
 [![An image of @lxmn22nov's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lxmn22nov)](https://holopin.io/@lxmn22nov)
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <!-- Activity Tracker -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lxmn22nov&bg_color=000000&color=ffffff&line=2cf604&point=f20202&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
