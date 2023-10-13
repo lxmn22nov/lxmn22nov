@@ -1,5 +1,6 @@
 <!-- **lxmn22nov/lxmn22nov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"><br/>
 ![Hi 👋🏻 I’m Laxman](https://github.com/lxmn22nov/lxmn22nov/assets/126524753/537d29ec-96dc-4ad4-8a2e-f3d12b7e5e39)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <!-- Visitor Count -->
