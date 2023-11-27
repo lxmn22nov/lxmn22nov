@@ -71,7 +71,7 @@ width="330px"/>
 </tr>
 </table>
 <br />
-<p>
+<p align="center" >
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lxmn22nov&theme=blue-green&hide_border=false"/>
 </p>
 
