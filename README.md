@@ -80,3 +80,5 @@ width="330px"/>
 
 <!-- Activity Tracker -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lxmn22nov&bg_color=000000&color=ffffff&line=2cf604&point=f20202&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://raw.githubusercontent.com/lxmn22nov/lxmn22nov/output/snake.svg" alt="Snake animation" />
