@@ -16,9 +16,8 @@
 <h1 align="center">Hi 👋! I'm Laxman Singh Koranga</h1>
 
 <!-- About me section -->
-💫 ABOUT ME:
-🔭 Computer Application Undergraduate.<br>
-🌱 I’m currently learning Ios App Development(Native). 🤩<br>
+🔭 Computer Applications Graduate.<br>
+🌱 I’m currently learning iOS App Development(Native). 🤩<br>
 
 ###
 
