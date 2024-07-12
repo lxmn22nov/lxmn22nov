@@ -3,20 +3,24 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"><br/>
 ![Hi 👋🏻 I’m Laxman](https://github.com/lxmn22nov/lxmn22nov/assets/126524753/537d29ec-96dc-4ad4-8a2e-f3d12b7e5e39)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <!-- Visitor Count --> 
 <br/>[![](https://visitcount.itsvg.in/api?id=lxmn22nov&icon=5&color=1)](https://visitcount.itsvg.in)
+
 <!-- Social Media Handles -->
 ### 🌐 SOCIALS: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/workspace.exe/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laxman-singh-koranga-689230225) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lxmn22nov) 
-<!-- Tech stacks, hands on experience -->
 
 <h1 align="center">Hi 👋! I'm Laxman Singh Koranga</h1>
+
 <!-- About me section -->
 💫 ABOUT ME:
 🔭 Computer Application Undergraduate.<br>
 🌱 I’m currently learning Ios App Development(Native). 🤩<br>
+
+<!-- Tech stacks, hands on experience -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lxmn22nov&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true" height="150" alt="stats graph"  />
