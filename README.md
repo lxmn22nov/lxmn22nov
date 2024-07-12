@@ -23,8 +23,8 @@
 <!-- Tech stacks, hands on experience -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lxmn22nov&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=lxmn22nov&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=0&date_format=j%20M%5B%20Y%5D" height="145" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lxmn22nov&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true" height="144" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=lxmn22nov&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D" height="140" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lxmn22nov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=true" height="125" alt="languages graph"  />
 </div>
 
