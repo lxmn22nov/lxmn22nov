@@ -21,11 +21,10 @@
 🌱 I’m currently learning Ios App Development(Native). 🤩<br>
 
 <!-- Tech stacks, hands on experience -->
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lxmn22nov&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=lxmn22nov&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D" height="130" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lxmn22nov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=true" height="121" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lxmn22nov&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="160" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=lxmn22nov&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=0&date_format=j%20M%5B%20Y%5D" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lxmn22nov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=false" height="160" alt="languages graph" />
 </div>
 
 ###
@@ -173,7 +172,6 @@ width="330px"/>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lxmn22nov&theme=blue-green&hide_border=false"/>
 </p>
 -->
-
 
 <!-- Halopin Board -->
 [![An image of @lxmn22nov's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lxmn22nov)](https://holopin.io/@lxmn22nov)
