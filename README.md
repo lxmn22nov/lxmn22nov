@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laxman-singh-koranga-689230225) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lxmn22nov) 
 
-<h1 align="center">Hi 👋! I'm Laxman Singh Koranga</h1>
+<h1 align="center">Hi! 👋 I'm Laxman Singh Koranga</h1>
 
 <!-- About me section -->
 🔭 Computer Applications Graduate.<br>
