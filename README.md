@@ -17,7 +17,7 @@
 
 <!-- About me section -->
 🔭 Computer Applications Graduate.<br>
-🌱 I’m currently learning iOS App Development(Native). 🤩<br>
+🌱 Currently learning React and NodeJs. 🤩<br>
 
 ###
 
