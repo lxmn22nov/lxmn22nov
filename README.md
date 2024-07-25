@@ -8,15 +8,15 @@
 <br/>[![](https://visitcount.itsvg.in/api?id=lxmn22nov&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Social Media Handles -->
-### 🌐 SOCIALS: 
+### 🌐 SOCIALS:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/workspace.exe/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laxman-singh-koranga-689230225) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laxman-singh-koranga-689230225)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lxmn22nov) 
 
 <h1 align="center">Hi! 👋 I'm, Laxman Singh Koranga</h1>
 
 <!-- About me section -->
-🔭 Computer Applications Graduate.<br>
+🔭 Computer Application Graduate.<br>
 🌱 Currently learning ReactJs and NodeJs. 🤩<br>
 
 ###
