@@ -17,7 +17,7 @@
 
 <!-- About me section -->
 🔭 Computer Applications Graduate.<br>
-🌱 Currently learning React and NodeJs. 🤩<br>
+🌱 Currently learning ReactJs and NodeJs. 🤩<br>
 
 ###
 
