@@ -17,8 +17,8 @@
 
 <!-- About me section -->
 🔭 Computer Application Graduate.<br>
-👨🏻‍💻 Pursuing Post-Graduation in Master of Computer Applications.<br>
-🌱 Currently learning/working on MERN stack. 🤩<br>
+🌱 Pursuing Post-Graduation in Master of Computer Applications.<br>
+👨🏻‍💻 Currently learning & working on MERN stack. 🤩<br>
 
 ###
 
