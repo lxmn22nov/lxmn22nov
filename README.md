@@ -94,9 +94,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lxmn22nov&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="160" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=lxmn22nov&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=0&date_format=j%20M%5B%20Y%5D" height="160" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lxmn22nov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=false" height="160" alt="languages graph" />
 </div>
 
+[![lxmn22nov's GitHub | Stats](https://stats.quira.sh/lxmn22nov/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=lxmn22nov)
+<!-- [![lxmn22nov's GitHub | Languages Over Time](https://stats.quira.sh/lxmn22nov/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=lxmn22nov)
+[![lxmn22nov's GitHub | Topics Over Time](https://stats.quira.sh/lxmn22nov/topics-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=lxmn22nov) -->
+  
 <!--
 ### 💻 PROGRAMMING LANGUAGES & TOOLS: 
 ###### VERSION CONTROL
